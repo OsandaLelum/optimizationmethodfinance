@@ -1,0 +1,18 @@
+Find the interval in which the function f(x) = x^3 + ax = b,   a, b ∈ ℝ is concave.
+
+To determine the interval in which the function f(x) = x^3 + ax + b is concave, we need to find the second derivative of the function and analyze its sign.
+
+Let's start by finding the first derivative:
+f'(x) = 3x^2 + a
+
+Now, let's find the second derivative by differentiating the first derivative with respect to x:
+f''(x) = d/dx (3x^2 + a)
+= 6x
+
+To determine the concavity of the function, we need to analyze the sign of the second derivative, f''(x). If f''(x) > 0, the function is concave up, and if f''(x) < 0, the function is concave down.
+
+Since f''(x) = 6x, we can see that f''(x) is positive for x > 0 and negative for x < 0.
+
+Therefore, the function f(x) = x^3 + ax + b is concave up for x > 0 and concave down for x < 0.
+
+Note that we haven't used the specific values of a and b in determining the concavity. The concavity depends only on the sign of the second derivative, which is constant for this function.
